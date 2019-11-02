@@ -1,0 +1,7 @@
+.idea
+.git
+
+/vendor/
+/src/Main/Core/config/prod/*
+/node_modules/
+/build/
